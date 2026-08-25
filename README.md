@@ -130,10 +130,6 @@ jupyter notebook Credit_Risk_Analytics_ML.ipynb
 - Model evaluation for credit risk: ROC/AUC, Gini coefficient, Kolmogorov–Smirnov statistic
 - Translating a statistical model into a business-usable credit scorecard
 
-## License
-
-Add a license of your choice (e.g. MIT) here.
-
 ## Acknowledgements
 
 - Dataset: [Lending Club Loan Data on Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data)
